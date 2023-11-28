@@ -2,7 +2,7 @@
   Hi! I'm HShiDianLu.
 </h1>
 <p align="center">
-  A super weak middle school student.
+  A super-weak middle school student.
 </p>
 
 <p align="center">
