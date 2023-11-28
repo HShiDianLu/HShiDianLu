@@ -20,20 +20,24 @@
 </p>
 <br>
 
-<p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=HShiDianLu&hide_border=true&theme=dark" alt="HShiDianLu's GitHub Stats"> <img height="150px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=HShiDianLu&layout=compact&hide_border=true&theme=dark" alt="Most Used Languages">
+## My Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=HShiDianLu&hide_border=true&theme=transparent&show_icons=true" alt="HShiDianLu's GitHub Stats">
   <br><br>
-  <img height="150px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=HShiDianLu&hide_border=true&theme=dark" alt="HShiDianLu's WakaTime stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HShiDianLu&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HShiDianLu&hide_border=true&layout=compact&theme=transparent" alt="HShiDianLu's WakaTime stats">
 </p>
 
 
-#### Top Repositories
+## Top Repositories
 
-<p align="center">
-<a href="https://github.com/HShiDianLu/LunarBypasser" style="text-decoration:none">
-  <img height="150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=HShiDianLu&repo=LunarBypasser&hide_border=true&theme=dark" />
-</a>
-<a href="https://github.com/HShiDianLu/DouyinCatcher" style="text-decoration:none">
-  <img height="150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=HShiDianLu&repo=DouyinCatcher&hide_border=true&theme=dark" />
-</a>
+<p>
+<span href="https://github.com/HShiDianLu/LunarBypasser">
+  <img height="150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=HShiDianLu&repo=LunarBypasser&hide_border=true&theme=transparent" />
+</span>
+  
+<span href="https://github.com/HShiDianLu/DouyinCatcher">
+  <img height="150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=HShiDianLu&repo=DouyinCatcher&hide_border=true&theme=transparent" />
+</span>
 </p>
