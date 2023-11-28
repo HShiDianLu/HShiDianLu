@@ -27,10 +27,10 @@
 ## My Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=HShiDianLu&hide_border=true&theme=transparent&show_icons=true" alt="HShiDianLu's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=HShiDianLu&hide_border=true&theme=transparent&show_icons=true&title_color=2f80ed&text_color=434d58&icon_color=4c71f2" alt="HShiDianLu's GitHub Stats">
   <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HShiDianLu&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HShiDianLu&hide_border=true&layout=compact&theme=transparent" alt="HShiDianLu's WakaTime stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HShiDianLu&layout=compact&hide_border=true&theme=transparent&title_color=2f80ed&text_color=434d58&icon_color=4c71f2" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HShiDianLu&hide_border=true&layout=compact&theme=transparent&title_color=2f80ed&text_color=434d58&icon_color=4c71f2" alt="HShiDianLu's WakaTime stats">
 </p>
 
 
@@ -38,10 +38,10 @@
 
 <p>
 <span href="https://github.com/HShiDianLu/LunarBypasser">
-  <img height="150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=HShiDianLu&repo=LunarBypasser&hide_border=true&theme=transparent" />
+  <img height="150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=HShiDianLu&repo=LunarBypasser&hide_border=true&theme=transparent&title_color=2f80ed&text_color=434d58&icon_color=4c71f2" />
 </span>
   
 <span href="https://github.com/HShiDianLu/DouyinCatcher">
-  <img height="150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=HShiDianLu&repo=DouyinCatcher&hide_border=true&theme=transparent" />
+  <img height="150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=HShiDianLu&repo=DouyinCatcher&hide_border=true&theme=transparent&title_color=2f80ed&text_color=434d58&icon_color=4c71f2" />
 </span>
 </p>
