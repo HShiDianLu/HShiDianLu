@@ -13,6 +13,10 @@
   <a style="text-decoration:none" herf="https://blog.csdn.net/weixin_39441881">
     <img src="https://img.shields.io/badge/CSDN-ShenCantJava-red.svg" alt="CSDN"/>
   </a>
+
+  <a style="text-decoration:none" herf="https://space.bilibili.com/1656328560">
+    <img src="https://img.shields.io/badge/Bilibili-HShiDianLu-lightblue.svg?logo=bilibili" alt="Bilibili"/>
+  </a>
   
   <a style="text-decoration:none">
     <img src="https://views.whatilearened.today/views/github/HShiDianLu/views.svg" alt="Profile views">
