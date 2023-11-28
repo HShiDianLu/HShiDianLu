@@ -18,16 +18,22 @@
     <img src="https://views.whatilearened.today/views/github/HShiDianLu/views.svg" alt="Profile views">
   </a>
 </p>
+<br>
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=HShiDianLu&hide_border=true&theme=dark" alt="HShiDianLu's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=HShiDianLu&hide_title=true&layout=compact&hide_border=true&theme=dark" alt="Most Used Languages">
+<p align="center">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=HShiDianLu&hide_border=true&theme=dark" alt="HShiDianLu's GitHub Stats"> <img height="150px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=HShiDianLu&layout=compact&hide_border=true&theme=dark" alt="Most Used Languages">
+  <br><br>
+  <img height="150px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=HShiDianLu&hide_border=true&theme=dark" alt="HShiDianLu's WakaTime stats">
+</p>
 
 
 #### Top Repositories
 
-
-<a href="https://github.com/HShiDianLu/LunarBypasser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HShiDianLu&repo=LunarBypasser&hide_border=true&theme=dark" />
+<p align="center">
+<a href="https://github.com/HShiDianLu/LunarBypasser" style="text-decoration:none">
+  <img height="150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=HShiDianLu&repo=LunarBypasser&hide_border=true&theme=dark" />
 </a>
-<a href="https://github.com/HShiDianLu/DouyinCatcher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HShiDianLu&repo=DouyinCatcher&hide_border=true&theme=dark" />
+<a href="https://github.com/HShiDianLu/DouyinCatcher" style="text-decoration:none">
+  <img height="150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=HShiDianLu&repo=DouyinCatcher&hide_border=true&theme=dark" />
 </a>
+</p>
