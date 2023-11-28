@@ -15,7 +15,7 @@
   </a>
 
   <a style="text-decoration:none" herf="https://space.bilibili.com/1656328560">
-    <img src="https://img.shields.io/badge/Bilibili-HShiDianLu-lightblue.svg?logo=bilibili" alt="Bilibili"/>
+    <img src="https://img.shields.io/badge/Bilibili-HShiDianLu-blue.svg?logo=bilibili" alt="Bilibili"/>
   </a>
   
   <a style="text-decoration:none">
