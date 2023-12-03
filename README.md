@@ -11,7 +11,7 @@
   </a>
 
   <a style="text-decoration:none" herf="https://blog.csdn.net/weixin_39441881">
-    <img src="https://img.shields.io/badge/CSDN-ShenCantJava-red.svg" alt="CSDN"/>
+    <img src="https://img.shields.io/badge/CSDN-ShenCantJava-gray.svg?labelColor=red" alt="CSDN"/>
   </a>
 
   <a style="text-decoration:none" herf="https://space.bilibili.com/1656328560">
