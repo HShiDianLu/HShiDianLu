@@ -5,24 +5,7 @@
   A super-weak middle school student.
 </p>
 
-<p align="center">
-  <a style="text-decoration:none" herf="https://github.com/HShiDianLu">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="Github"/>
-  </a>
-
-  <a style="text-decoration:none" herf="https://blog.csdn.net/weixin_39441881">
-    <img src="https://img.shields.io/badge/CSDN-ShenCantJava-gray.svg?labelColor=red" alt="CSDN"/>
-  </a>
-
-  <a style="text-decoration:none" herf="https://space.bilibili.com/1656328560">
-    <img src="https://img.shields.io/badge/Bilibili-blue.svg?logo=bilibili&logoColor=white" alt="Bilibili"/>
-  </a>
-  
-  <a style="text-decoration:none">
-    <img src="https://views.whatilearened.today/views/github/HShiDianLu/views.svg" alt="Profile views">
-  </a>
-</p>
-<br>
+**Personal Website: https://hshidianlu.site/**
 
 ## My Stats
 
